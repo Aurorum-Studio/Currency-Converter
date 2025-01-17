@@ -1,4 +1,4 @@
-# Currency Converter
+<h1 style="text-align:center"> Currency Converter </h1>
 
 ## Introduction:
 This project aims to create a HTML/PHP website template to help you build a currency converter tool with Aurorum Exchange Rate free API.

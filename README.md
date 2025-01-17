@@ -8,7 +8,8 @@ This project was built to be a ready-to-use project, the simplest way to depoly 
 
 ## Functions: What is this project about?
 - There's no better way to show the project than a running showcase, use the following link to access the demo:
-Demo : [Click to try demo](https://exchange-rate.aurorum.co/dev/demo/)
+
+    Demo : [Click to try demo](https://exchange-rate.aurorum.co/dev/demo/)
 - If the demo hasn't explained you everything this project is about, here is a written explanation:
 - 
 

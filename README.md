@@ -11,5 +11,5 @@ This project was built to be a ready-to-use project, the simplest way to depoly 
 
     Demo : [Click to try demo](https://exchange-rate.aurorum.co/dev/demo/)
 - If the demo hasn't explained you everything this project is about, here is a written explanation:
-- 
+- This project can help you build your own currency converter website with Aurorum currency rate API, which is a fully free API.
 
